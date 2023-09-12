@@ -6,3 +6,5 @@ https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttR
 
 # The technologies implemented are
 HTML y CSS
+
+# Methodology used is OOCSS
